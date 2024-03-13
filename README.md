@@ -6,3 +6,4 @@ A - To move right
 D - To move Left
 Left Click - To drop Fruit
 ## WebGL
+https://play.unity.com/p/webgl-builds-395908
